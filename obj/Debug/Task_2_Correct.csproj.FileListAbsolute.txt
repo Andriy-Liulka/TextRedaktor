@@ -1,0 +1,15 @@
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\bin\Debug\Task_2_Correct.exe.config
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\bin\Debug\Task_2_Correct.exe
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\bin\Debug\Task_2_Correct.pdb
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.csproj.AssemblyReference.cache
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\MainWindow.g.cs
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\App.g.cs
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct_MarkupCompile.cache
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct_MarkupCompile.lref
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\MainWindow.baml
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.g.resources
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.Properties.Resources.resources
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.csproj.GenerateResource.cache
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.csproj.CoreCompileInputs.cache
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.exe
+D:\IT Step Academy\WPF\HomeWorks\HomeWork3\HomeWork3\Task_2_Correct\obj\Debug\Task_2_Correct.pdb
